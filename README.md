@@ -1,1 +1,5 @@
 # Insurance_Claims_ML
+
+Our project was an in-depth exploration of the daily tasks performed by insurance companies. To gain a better understanding of how data is utilized across various industries, we utilized materials from the MSBA Questrom School of Business program and the Carlson School of Management MSBA program. As a team of highly inquisitive students, we decided to delve into the realm of Machine Learning and create categorical predictions to determine whether a customer would submit an insurance claim. Our ultimate goal was to develop a model that could predict with a high degree of accuracy whether or not an insurance company's clients were likely to file a claim based on numerous factors such as Customer ID, Vehicle value, Exposure value, Vehicle body, Vehicle Age, Gender of the customer, Area, Age Category, Engine type, Max power per vehicle, Driving history, Vehicle color, Marital Status, Ebill, Time of week driven, Time driven, Length of term, Credit Score, and Education level.
+
+Contributors: J. Dev Rao & Jose Salerno
